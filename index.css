@@ -1,0 +1,33 @@
+/* .card-enter {
+  opacity: 0;
+}
+
+.card-enter-active {
+  opacity: 1;
+  transition: all 0.3s ease-in-out;
+  position: absolute;
+}
+
+.card-exit {
+  opacity: 0;
+}
+
+.card-exit-active {
+  opacity: 1;
+  transition: all 0.3s ease-in-out;
+  position: absolute;
+} */
+
+/* .card-list-wrap {
+  width: 400px;
+  height: 100%;
+  position: relative;
+  margin: 0 auto;
+  background-color: beige;
+} */
+
+.add-btn {
+  position: fixed;
+  top: 20px;
+  right: 10px;
+}
